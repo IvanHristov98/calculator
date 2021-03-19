@@ -21,7 +21,7 @@
    		<calculatorWeb.version>1.0-SNAPSHOT</calculatorWeb.version>
    		
    		<arquillianTomcatEmbedded.version>1.0.0</arquillianTomcatEmbedded.version>
-   		<tomcatEmbedCore.version>8.5.55</tomcatEmbedCore.version>
+   		<tomcatEmbedCore.version>8.5.61</tomcatEmbedCore.version>
    		<tomcatEmbedJasper.version>8.5.43</tomcatEmbedJasper.version>
    		<tomcatEmbedLoggingJuli.version>8.5.2</tomcatEmbedLoggingJuli.version>
 
